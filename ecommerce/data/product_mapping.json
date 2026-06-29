@@ -1,0 +1,45 @@
+{
+  "version": "1",
+  "updated_at": "2026-06-29T00:18:08.095512+08:00",
+  "mappings": [
+    {
+      "shopline_product_id": "16075888573709620414561495",
+      "variant_id": null,
+      "sku": "CAMP-LED-001",
+      "source_url": "https://detail.1688.com/offer/1054633694577.html",
+      "source_platform": "1688",
+      "cost_rmb": 8.8,
+      "supplier_name": "1688-超长续航LED充电灯店铺",
+      "spec_note": "",
+      "notes": "超长续航容量家用停电led充电灯应急户外露营摆摊USB充电式照明灯",
+      "created_at": "2026-06-29T00:07:17.865036+08:00",
+      "updated_at": "2026-06-29T00:18:05.478371+08:00"
+    },
+    {
+      "shopline_product_id": "16075888685061512956321495",
+      "variant_id": null,
+      "sku": "CAMP-RETRO-001",
+      "source_url": "https://detail.1688.com/offer/901386336384.html",
+      "source_platform": "1688",
+      "cost_rmb": 24.31,
+      "supplier_name": "谛归（义乌）",
+      "spec_note": "",
+      "notes": "充电酒吧台灯复古露营灯 火焰/三色/暖白/冷白 可选 跨境专供 500g",
+      "created_at": "2026-06-29T00:07:21.336303+08:00",
+      "updated_at": "2026-06-29T00:18:06.836782+08:00"
+    },
+    {
+      "shopline_product_id": "16075888685663311683391495",
+      "variant_id": null,
+      "sku": "CAMP-SOLAR-001",
+      "source_url": "https://detail.1688.com/offer/973288800150.html",
+      "source_platform": "1688",
+      "cost_rmb": 15.88,
+      "supplier_name": "1688-太阳能应急灯店铺",
+      "spec_note": "",
+      "notes": "太阳能应急灯 288珠-四档调光-磁吸+挂钩-可当充电宝 15.88起",
+      "created_at": "2026-06-29T00:07:21.476259+08:00",
+      "updated_at": "2026-06-29T00:18:08.095512+08:00"
+    }
+  ]
+}

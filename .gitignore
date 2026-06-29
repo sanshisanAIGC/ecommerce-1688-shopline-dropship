@@ -1,0 +1,14 @@
+ecommerce/.env
+ecommerce/data/*.tmp
+ecommerce/.claude/
+ecommerce/__pycache__/
+.env
+__pycache__/
+*.pyc
+*.tmp
+.DS_Store
+.claude/settings*
+.claude/worktrees/
+.claude/plans/
+.claude/memory/
+memory/
